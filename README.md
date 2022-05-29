@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lejbronika
+- 👀 I’m interested in 3d-printing
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Value Stream Mapping creations.
+- 📫 How to reach me t.me/lejbron
